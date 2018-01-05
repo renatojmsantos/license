@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.my.package.name">
+    package="com.my.package.name"
     android:versionCode="2"
     android:versionName="1.0.1">
     
